@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    width: 100%;
+    padding: 20%;
+    margin: auto;
+}
+#tabel{
+    margin-left: 65px;
+    margin-right: 65px;
+}
+#tabel2{
+    margin-left: 65px;
+    margin-right: 65px;
+}
+#tabel3{
+    margin-left: 65px;
+    margin-right: 65px;
+}
+#judul{
+    text-align: center;
+    margin-bottom: 30px;
+}
